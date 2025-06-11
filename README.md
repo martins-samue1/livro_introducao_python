@@ -28,7 +28,7 @@ A organização segue os capítulos do livro:
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seuusuario/seu-repositorio.git
+   git clone https://github.com/martins-samuel/livro_introducao_python
 <style>
   div {
     text-align: center;
